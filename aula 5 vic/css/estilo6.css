@@ -1,0 +1,18 @@
+#p1{
+    color: rgb(47, 0, 255);
+}
+#p2{
+    color: blueviolet;
+}
+
+p{
+   background-color: rgb(175, 177, 135);
+}
+
+.borda{
+    border: 2px solid rgb(4, 51, 89);
+}
+
+.sombra{
+    box-shadow: 10px 10px 5px rgb(0, 0, 0)
+}

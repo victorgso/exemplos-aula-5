@@ -1,0 +1,26 @@
+body{
+    background-color: #ccc;
+}
+article{
+    background-color: #000;
+    color: #fff;
+    width: 300px;
+    margin: 20px;
+}
+
+h2{
+    margin: 0;
+
+}
+
+div article h2{
+    color: rgb(178, 14, 211);
+}
+
+article h2{
+    color: rgb(251, 255, 0);
+}
+
+article, h2{
+    font-size: 18pt;
+}
